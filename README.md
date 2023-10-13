@@ -23,8 +23,8 @@ Informativo sobre as principais duvidas sobre serviços e produtos de forma dina
 ## :mag_right:Como Usar
 
 A utilização e vizualização do site, pode ser realizada atravez do link:<br>
-https://shaienne23.github.io/Petlife/#clinica
 
+<a href="https://shaienne23.github.io/Petlife/#clinica" target="_blank">https://shaienne23.github.io/Petlife/#clinica</a>
 ## :hammer_and_pick:Tecnologias Utilizadas
 
 - HTML5
